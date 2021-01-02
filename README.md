@@ -22,9 +22,7 @@
     - Java
     - Kotlin
     - Flutter / Dart  
-
-    <b>Hands on Web using <i>Flutter Web</i></b>.
-
+    
     </br>
 
     <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=mudra16bhandari&show_icons=true" alt="mudra16bhandari" />
