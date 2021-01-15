@@ -27,6 +27,6 @@
 
     <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=mudra16bhandari&show_icons=true" alt="mudra16bhandari" />
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudra16bhandari&langs_count=3)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudra16bhandari&langs_count=8)
 
 
