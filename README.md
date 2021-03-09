@@ -20,7 +20,6 @@
 - ### What am I learning ?
     <b>Android Development </b>
     - Java
-    - Kotlin
     - Flutter / Dart  
     
     </br>
