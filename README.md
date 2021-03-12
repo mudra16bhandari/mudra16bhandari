@@ -21,6 +21,10 @@
     <b>Android Development </b>
     - Java
     - Flutter / Dart  
+
+## Currently working on 
+  - Uber Clone using Flutter
+  - Sentiment Analysis for Hotel Reviews
     
     </br>
 
