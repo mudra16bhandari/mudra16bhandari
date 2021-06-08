@@ -19,12 +19,8 @@
     - I am a 3rd year undergraduate pursuing <b>B.Tech</b> in <b>Information and Communication Technology</b> from <b>Pandit Deendayal Petroleum University</b>.
 - ### What am I learning ?
     <b>Android Development </b>
-    - Java
     - Flutter / Dart  
 
-## Currently working on 
-  - Uber Clone using Flutter
-  - Sentiment Analysis for Hotel Reviews
     
     </br>
 
