@@ -16,10 +16,10 @@
 </br>
 
 - ### Who am I ? 
-    - I am a final year undergraduate pursuing <b>B.Tech</b> in <b>Information and Communication Technology</b> from <b>Pandit Deendayal Petroleum University</b>.
+    - I am a final year undergraduate pursuing <b>B.Tech</b> in <b>Information and Communication Technology</b> from <b>Pandit Deendayal Energy University</b>.
 - ### In what technologies am I interested?
     - Flutter / Dart
-    - Java   
+    - ReactJS   
 
     
     </br>
