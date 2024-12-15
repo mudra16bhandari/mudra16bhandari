@@ -17,11 +17,12 @@
 
 - ### Who am I ? 
     - I am a graduate, pursued <b>B.Tech</b> in <b>Information and Communication Technology</b> from <b>Pandit Deendayal Energy University</b>.
-    - Currently working as Android Developer at Jio Platforms Ltd. 
+    - Currently working as Software Development Engineer I at Jio Platforms Ltd. 
 - ### What technologies am I working with, familiar with and learning?
-    - Flutter / Dart
+    - React Native
     - ReactJS   
     - Kotlin
+    - Flutter / Dart
 
     
     </br>
